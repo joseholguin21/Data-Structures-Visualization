@@ -1,6 +1,5 @@
 # Data-Structures-Visualization
-This project repurposes the data structures template classes into visualization classes in order to animate how they work. A C++ graphics library called SFML is used in order to animate the given objects.
-Here is a short video showing off binary search tree and avl tree.
+This project uses C++ and a graphics library called SFML to help visualize data structures. The project also has a learning utility to help familiarize with how the data structures function. 
 
 
 https://github.com/joseholguin21/Data-Structures-Visualization/assets/164131785/6f19c5ea-19ea-41f0-87d9-db0b3b8bef29
